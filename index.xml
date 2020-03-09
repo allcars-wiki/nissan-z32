@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nissan Z32 Wiki</title><link>http://nissan-z32.allcars.wiki/</link><atom:link href="http://nissan-z32.allcars.wiki/index.xml" rel="self" type="application/rss+xml"/><description>Nissan Z32 Wiki</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><image><url>img/map[gravatar:%!s(bool=false) shape:circle]</url><title>Nissan Z32 Wiki</title><link>http://nissan-z32.allcars.wiki/</link></image><item><title>Battery Relocation</title><link>http://nissan-z32.allcars.wiki/docs/articles/mods/battery_relocation/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://nissan-z32.allcars.wiki/docs/articles/mods/battery_relocation/</guid><description>&lt;p>Taken from&lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nissan Z32 Wiki</title><link>https://allcars-wiki.github.io/nissan-z32/</link><atom:link href="https://allcars-wiki.github.io/nissan-z32/index.xml" rel="self" type="application/rss+xml"/><description>Nissan Z32 Wiki</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><image><url>img/map[gravatar:%!s(bool=false) shape:circle]</url><title>Nissan Z32 Wiki</title><link>https://allcars-wiki.github.io/nissan-z32/</link></image><item><title>Battery Relocation</title><link>https://allcars-wiki.github.io/nissan-z32/docs/articles/mods/battery_relocation/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://allcars-wiki.github.io/nissan-z32/docs/articles/mods/battery_relocation/</guid><description>&lt;p>Taken from&lt;br>
 &lt;a href="http://www.duanedibley.com/wordpress/cars/300zx/" target="_blank" rel="noopener">http://www.duanedibley.com/wordpress/cars/300zx/&lt;/a>&lt;/p>
 &lt;h2 id="warning--info">Warning &amp;amp; Info&lt;/h2>
 &lt;p>Before going any further it is important to say the following.&lt;/p>
@@ -142,7 +142,7 @@ and no local ground connection in trunk, and that’s what i have done.&lt;/p>
 &lt;ol>
 &lt;li>
 &lt;p>Start with the 1/0 gauge cable, i got extra flexible because its got to bend a lot in some tight spaces. The wire itself is about 0.32 (wikipedia) inches diameter, but that’s without insulation. With insulation its 0.5 inches and with space for grommets etc we need 5/8 inch holes for it to pass through. i got 25ft of cable but that’s more than is required.&lt;br>
-&lt;img src="./docs/articles/mods/battery_relocation/images/IMG_3559.jpg#no-margin" alt="*Battery cables*">
+&lt;img src="./nissan-z32/docs/articles/mods/battery_relocation/images/IMG_3559.jpg#no-margin" alt="*Battery cables*">
 &lt;/p>
 &lt;/li>
 &lt;li>
@@ -152,14 +152,14 @@ and no local ground connection in trunk, and that’s what i have done.&lt;/p>
 &lt;li>
 &lt;p>Remove the passenger fender. This is optional. I think you can do this with the front wheel removed and inner screen pulled back,
 but it was just easier for me to remove the fender completely. &lt;br>
-&lt;img src="./docs/articles/mods/battery_relocation/images/IMG_3553.jpg#no-margin" alt="*Removed fender*">
+&lt;img src="./nissan-z32/docs/articles/mods/battery_relocation/images/IMG_3553.jpg#no-margin" alt="*Removed fender*">
 &lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>There is a “flap” between the inner engine bay and the fender area adjacent to where the battery used to be the cables run through there. Run the cables into the engine bay here &lt;br>
-&lt;img src="./docs/articles/mods/battery_relocation/images/IMG_3554.jpg#no-margin" alt="*Flap Fender*">
+&lt;img src="./nissan-z32/docs/articles/mods/battery_relocation/images/IMG_3554.jpg#no-margin" alt="*Flap Fender*">
 &lt;br>
-&lt;img src="./docs/articles/mods/battery_relocation/images/IMG_3561.jpg#no-margin" alt="*Flap Fender*">
+&lt;img src="./nissan-z32/docs/articles/mods/battery_relocation/images/IMG_3561.jpg#no-margin" alt="*Flap Fender*">
 &lt;/p>
 &lt;/li>
 &lt;li>
@@ -167,9 +167,9 @@ but it was just easier for me to remove the fender completely. &lt;br>
 &lt;p>&lt;strong>GND Block:&lt;/strong> I connected the starter cable directly to the dist block, and ran an extra 8 gauge wire from the dist block to the firewall ground mount. The two other 8 gauge cables are the additional engine bay grounding wires (see later)&lt;/p>
 &lt;p>&lt;strong>12V block:&lt;/strong> Connects to the original 12V cable, the original cable was “short” in my car so i extended it by 6 inches or so to reach. the second cable is the direct starter connection.&lt;/p>
 &lt;p>
-&lt;img src="./docs/articles/mods/battery_relocation/images/IMG_3567.jpg#no-margin" alt="*Cable mounted*">
+&lt;img src="./nissan-z32/docs/articles/mods/battery_relocation/images/IMG_3567.jpg#no-margin" alt="*Cable mounted*">
 &lt;br>
-&lt;img src="./docs/articles/mods/battery_relocation/images/IMG_3566.jpg#no-margin" alt="*Cable mounted*">
+&lt;img src="./nissan-z32/docs/articles/mods/battery_relocation/images/IMG_3566.jpg#no-margin" alt="*Cable mounted*">
 &lt;/p>
 &lt;/li>
 &lt;li>
@@ -177,15 +177,15 @@ but it was just easier for me to remove the fender completely. &lt;br>
 If you look in front of the passenger door hinge mounts you will see a hole right at bottom of the firewall bulkhead, this hole isn’t useful!! 
 But if you drill holes about 2 inches above that then you get access to the interior ECU compartment.
 I drilled 2x 5/8 inch holes side by side for the cables to accommodate both the cable and a grommet (per cable)&lt;br>
-&lt;img src="./docs/articles/mods/battery_relocation/images/IMG_3557.jpg#no-margin" alt="*Cable holes*">
+&lt;img src="./nissan-z32/docs/articles/mods/battery_relocation/images/IMG_3557.jpg#no-margin" alt="*Cable holes*">
 &lt;br>
-&lt;img src="./docs/articles/mods/battery_relocation/images/IMG_3556.jpg#no-margin" alt="*Cable holes*">
+&lt;img src="./nissan-z32/docs/articles/mods/battery_relocation/images/IMG_3556.jpg#no-margin" alt="*Cable holes*">
 &lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>Inside the passenger foot well, remove the ECU cover (the wood one) and the kick panels.
 I also unbolted the 3 relays hidden away inside the chassis frame to make space to “see”.&lt;br>
-&lt;img src="./docs/articles/mods/battery_relocation/images/IMG_3558.jpg#no-margin" alt="*Relay*">
+&lt;img src="./nissan-z32/docs/articles/mods/battery_relocation/images/IMG_3558.jpg#no-margin" alt="*Relay*">
 &lt;/p>
 &lt;/li>
 &lt;li>
@@ -193,20 +193,20 @@ I also unbolted the 3 relays hidden away inside the chassis frame to make space 
 Pass the cables through the holes onto the passenger foot well area (don’t forget the grommets).
 Once the cables are through the relays can be returned to the chassis space.
 I zipped tied them to keep them together as much as possible&lt;br>
-&lt;img src="./docs/articles/mods/battery_relocation/images/IMG_3564.jpg#no-margin" alt="*Cable Install*">
+&lt;img src="./nissan-z32/docs/articles/mods/battery_relocation/images/IMG_3564.jpg#no-margin" alt="*Cable Install*">
 &lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>The tedious bit is routing the cables along the floor on the passenger side all the way to the trunk area.
 I used the 3D printed cable ties to zip tie the cables together and then double sided tape them to chassis.
 The main objective is to keep the battery cables close to each other and consistent so that induced magnetic fields around them cancel cleanly.&lt;br>
-&lt;img src="./docs/articles/mods/battery_relocation/images/IMG_3571.jpg#no-margin" alt="*Cable Install*">
+&lt;img src="./nissan-z32/docs/articles/mods/battery_relocation/images/IMG_3571.jpg#no-margin" alt="*Cable Install*">
 &lt;br>
-&lt;img src="./docs/articles/mods/battery_relocation/images/IMG_3568.jpg#no-margin" alt="*Cable Install*">
+&lt;img src="./nissan-z32/docs/articles/mods/battery_relocation/images/IMG_3568.jpg#no-margin" alt="*Cable Install*">
 &lt;br>
-&lt;img src="./docs/articles/mods/battery_relocation/images/IMG_3569.jpg#no-margin" alt="*Cable Install*">
+&lt;img src="./nissan-z32/docs/articles/mods/battery_relocation/images/IMG_3569.jpg#no-margin" alt="*Cable Install*">
 &lt;br>
-&lt;img src="./docs/articles/mods/battery_relocation/images/IMG_3570.jpg#no-margin" alt="*Cable Install*">
+&lt;img src="./nissan-z32/docs/articles/mods/battery_relocation/images/IMG_3570.jpg#no-margin" alt="*Cable Install*">
 &lt;/p>
 &lt;/li>
 &lt;li>
@@ -215,7 +215,7 @@ It was bolted via 4 holes drilled in the floor through 4x 3/4 inch SS stand off�
 The 12V fuse was mounted directly to the upper tray panel and the battery installed.&lt;br>
 GND wire direct to the 0V battery terminal, 12V wire to the fuse and fuse to the 12V battery terminal with 3D printed shields under terminals to avoid shorts.
 There is specifically &lt;strong>NO&lt;/strong> grounding of battery in trunk area. The NOCO battery maintainer cables were attached to the side terminals and 3D printed covers put over connections.&lt;/p>
-&lt;img src="./docs/articles/mods/battery_relocation/images/IMG_3572.jpg#no-margin" alt="*Battery Install*">
+&lt;img src="./nissan-z32/docs/articles/mods/battery_relocation/images/IMG_3572.jpg#no-margin" alt="*Battery Install*">
 &lt;/li>
 &lt;li>
 &lt;p>Final build is to add the vent plumbing in case of over charge. This is &lt;strong>TBD&lt;/strong>&lt;/p>
@@ -257,17 +257,17 @@ For me i have some specifics I want to address&lt;/p>
 &lt;p>I doubt that its possible to measure any differences  from before vs after, but since debugging grounding issues is a PITA i’d prefer to not have a problem.&lt;/p>
 &lt;h2 id="additional">Additional&lt;/h2>
 &lt;p>Subsequent to the relocation work, i added a sub woofer speaker into the car (under passenger area), and to support that i added a  2nd breaker circuit specifically for the subwoofer
-&lt;img src="./docs/articles/mods/battery_relocation/images/breaker_hu44175b6db3225b1b427e270094c90790_64230_400x0_resize_q90_lanczos.jpg#no-margin" width="400" alt="*Circuit Breaker*">
+&lt;img src="./nissan-z32/docs/articles/mods/battery_relocation/images/breaker_hu44175b6db3225b1b427e270094c90790_64230_400x0_resize_q90_lanczos.jpg#no-margin" width="400" alt="*Circuit Breaker*">
 &lt;/p>
 &lt;p>You can see it added here
-&lt;img src="./docs/articles/mods/battery_relocation/images/2019-04-19-11.03.06.jpg#no-margin" alt="*Circuit Breaker*">
+&lt;img src="./nissan-z32/docs/articles/mods/battery_relocation/images/2019-04-19-11.03.06.jpg#no-margin" alt="*Circuit Breaker*">
 &lt;/p>
 &lt;p>And to keep the battery in good shape if the car is not driven in a  while, i purchased an charger/maintainer specifically for this battery&lt;br>
 &lt;a href="https://www.amazon.com/gp/product/B00DHGPVKI/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&amp;psc=1">
-&lt;img src="./docs/articles/mods/battery_relocation/images/charger_hu094babae42ad425e27cd25ba22529076_172411_400x0_resize_q90_lanczos.jpg#no-margin" width="400" alt="*Battery Charger*">
+&lt;img src="./nissan-z32/docs/articles/mods/battery_relocation/images/charger_hu094babae42ad425e27cd25ba22529076_172411_400x0_resize_q90_lanczos.jpg#no-margin" width="400" alt="*Battery Charger*">
 &lt;/a>&lt;/p>
 &lt;h2 id="left-to-do">Left to Do&lt;/h2>
-&lt;p>What’s left to do is 3D print adaptors for the two vent holes on the battery so i can tube them to external. Its a “must do” item but not done yet&lt;/p></description></item><item><title>EGR Removal</title><link>http://nissan-z32.allcars.wiki/docs/articles/mods/egr_removal/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://nissan-z32.allcars.wiki/docs/articles/mods/egr_removal/</guid><description>&lt;p>The &lt;strong>EGR (Exhaust Gas Recirculation) system&lt;/strong> is designed to introduce exhaust gas into the intake manifold&lt;br>
+&lt;p>What’s left to do is 3D print adaptors for the two vent holes on the battery so i can tube them to external. Its a “must do” item but not done yet&lt;/p></description></item><item><title>EGR Removal</title><link>https://allcars-wiki.github.io/nissan-z32/docs/articles/mods/egr_removal/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://allcars-wiki.github.io/nissan-z32/docs/articles/mods/egr_removal/</guid><description>&lt;p>The &lt;strong>EGR (Exhaust Gas Recirculation) system&lt;/strong> is designed to introduce exhaust gas into the intake manifold&lt;br>
 This lowers the combustion temperature to lower NOx emissions. It is a required emissions control system, and removal of it is likely all kinds of illegal. Here&amp;rsquo;s how to do it!&lt;/p>
 &lt;p>&lt;em>Images originally from
 &lt;a href="http://ttzd.com/" target="_blank" rel="noopener">TTZD.com&lt;/a>. A big thanks to the original author/photographer!&lt;/em>&lt;/p>
@@ -365,7 +365,7 @@ This lowers the combustion temperature to lower NOx emissions. It is a required 
 &lt;a href="Vacuum_Diagrams.html" title="Vacuum Diagrams">Vacuum Diagrams&lt;/a> article for a little more help seeing how this is done. Most delete kits also include a vacuum nipple and zip tie, which can be used to block the vacuum port which used to run to the EGR solenoid from under the passenger side throttle body.&lt;/li>
 &lt;/ol>
 &lt;p>Retrieved from &amp;ldquo;
-&lt;a href="http://conceptzperformance.com/wiki/index.php?title=EGR_Removal&amp;amp;oldid=671" target="_blank" rel="noopener">http://conceptzperformance.com/wiki/index.php?title=EGR_Removal&amp;amp;oldid=671&lt;/a>&amp;rdquo;&lt;/p></description></item><item><title>Jacking up the Z</title><link>http://nissan-z32.allcars.wiki/docs/articles/maintenance/jacking_up/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://nissan-z32.allcars.wiki/docs/articles/maintenance/jacking_up/</guid><description>&lt;p>The Z can be a difficult car to get into the air, and being that it&amp;rsquo;s so low, it&amp;rsquo;s pretty much essential for doing anything that&amp;rsquo;s under the car. This guide aims to help you get your car into the air safely and easily.&lt;/p>
+&lt;a href="http://conceptzperformance.com/wiki/index.php?title=EGR_Removal&amp;amp;oldid=671" target="_blank" rel="noopener">http://conceptzperformance.com/wiki/index.php?title=EGR_Removal&amp;amp;oldid=671&lt;/a>&amp;rdquo;&lt;/p></description></item><item><title>Jacking up the Z</title><link>https://allcars-wiki.github.io/nissan-z32/docs/articles/maintenance/jacking_up/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://allcars-wiki.github.io/nissan-z32/docs/articles/maintenance/jacking_up/</guid><description>&lt;p>The Z can be a difficult car to get into the air, and being that it&amp;rsquo;s so low, it&amp;rsquo;s pretty much essential for doing anything that&amp;rsquo;s under the car. This guide aims to help you get your car into the air safely and easily.&lt;/p>
 &lt;p>Thanks to
 &lt;a href="http://zhome.com/ZCMnL/PICS/jackUpCar/jackUpCar.html" target="_blank" rel="noopener">ZHome&lt;/a> for original pictures and info.&lt;/p>
 &lt;h2 id="tools-and-parts">Tools and Parts&lt;/h2>
