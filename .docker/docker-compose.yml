@@ -1,0 +1,28 @@
+version: "3.7"
+
+services:
+  hugo:
+    container_name: ${PROJECT_ID}
+    environment:
+      - PROJECT_ID
+      - HUGO_THEME
+      - HUGO_WATCH
+      - HUGO_REFRESH_TIME
+      - HUGO_BASE_URL
+      - HUGO_PORT
+    build:
+      args:
+        - PROJECT_ID
+        - HUGO_VERSION
+        - HUGO_TYPE
+      context: .
+      dockerfile: Dockerfile
+    image: ${PROJECT_ID}/hugo-dev:${HUGO_VERSION}
+    ports:
+      - ${HUGO_PORT}:${HUGO_PORT}
+    volumes:
+      - ../:/home/${PROJECT_ID}/application
+      - ../output:/home/${PROJECT_ID}/output
+    command: sh -c -x "
+      tail -f /dev/null"
+    working_dir: /home/${PROJECT_ID}/application

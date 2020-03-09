@@ -1,0 +1,10 @@
+{{ $original := .Page.Resources.GetMatch (printf "*%s*" (.Get "src")) }}
+{{ $resize := default false (.Get "resize") }}
+{{ $alt := (printf "*%s*" (.Get "alt")) }}
+
+{{ if eq $resize false }}
+    <img src="{{ $original.RelPermalink }}#no-margin" alt="{{ $alt }}">
+{{ else }}
+    {{ $preview := $original.Resize $resize }}
+    <img src="{{ $preview.RelPermalink }}#no-margin" width="{{ $preview.Width }}" alt="{{ $alt }}">
+{{ end }}
