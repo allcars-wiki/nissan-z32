@@ -19,6 +19,9 @@ copyright = ""
 ## Advanced options below ##
 ############################
 
+#relative URLS
+relativeURLS = true
+
 # Name of Academic theme folder in `themes/`.
 theme = "academic"
 
