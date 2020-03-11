@@ -7,29 +7,27 @@ type = "docs"  # Do not modify.
 
 linktitle = "EGR Removal"
 [menu.docs]
-  parent = "mods"
+  parent = "deletes"
 +++
 The **EGR (Exhaust Gas Recirculation) system** is designed to introduce exhaust gas into the intake manifold  
 This lowers the combustion temperature to lower NOx emissions. It is a required emissions control system, and removal of it is likely all kinds of illegal. Here's how to do it!  
   
 _Images originally from [TTZD.com](http://ttzd.com/). A big thanks to the original author/photographer!_  
 
-Tools Required
---------------
+## Tools Required
 
 *   Assortment of wrenches, ratchetss (10mm, 12mm and 14mm specifically). Flex heads, ratcheting wrenches, stubbies, etc are all very helpful here.
 *   Cutting tool (dremel tool) OR large prybar/ratchet straps.
 *   A lot of patience.
 
-Parts Required
---------------
+## Parts Required
 
 *   EGR Bypass kit (available from your friendly neighborhood Z32 parts vendor).
 
-Procedure
----------
+## Procedure
 
-Removal of the EGR system is tricky, as it is in a very tight location. There are two major hiccups associated with this job:  
+Removal of the EGR system is tricky, as it is in a very tight location. 
+There are two major hiccups associated with this job:  
 
 1.  The bolts that hold the EGR valve to the engine are longer than the space between the EGR valve and the firewall.
 2.  The EGR tube that connects to the driver's side exhaust manifold is extremely difficult to access.

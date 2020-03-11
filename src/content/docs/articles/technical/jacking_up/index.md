@@ -1,14 +1,13 @@
 +++
 title = "Jacking up the Z"
 date = 2020-01-01
-
 toc = true  # Show table of contents? true/false
 type = "docs"  # Do not modify.
-
 linktitle = "Jacking up the car"
+weight = 1
 [menu.docs]
-  parent = "maintenance"
-  weight = 0
+  parent = "technical"
+  
 +++
 
 The Z can be a difficult car to get into the air, and being that it's so low, it's pretty much essential for doing anything that's under the car. This guide aims to help you get your car into the air safely and easily.  
@@ -25,7 +24,7 @@ Thanks to [ZHome](http://zhome.com/ZCMnL/PICS/jackUpCar/jackUpCar.html) for orig
 With lowered Zs, low-profile jacks and the 2x8" boards are practically a requirement.  
   
 ## Jack Points
-![lift_points.jpg](./images/lift_points.jpg)
+{{< img src="images/lift_points.jpg" alt="lift_points" >}}
 
 ## Procedure
 

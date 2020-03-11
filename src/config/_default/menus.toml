@@ -22,10 +22,14 @@
 
 # Documentation
 [[docs]]
-  name = "Maintenance"
+  name = "Technical"
   weight = 20
-  identifier = "maintenance"
+  identifier = "technical"
 [[docs]]
   name = "Modifications"
   weight = 30
   identifier = "mods"
+[[docs]]
+  name = "Deletes"
+  weight = 40
+  identifier = "deletes"

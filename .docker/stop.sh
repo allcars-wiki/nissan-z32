@@ -18,4 +18,4 @@ if [[ ! -f "${SCRIPT_DIR}/.env" ]]; then
     cp "${SCRIPT_DIR}/.env.template" "${SCRIPT_DIR}/.env"
 fi
 
-cd "${SCRIPT_DIR}" && HOST_PATH="${ROOT_DIR}/" docker-compose -f "${SCRIPT_DIR}/docker-compose.yml" down
+cd "${SCRIPT_DIR}" && HOST_PATH="${ROOT_DIR}/" docker-compose -f "${SCRIPT_DIR}/docker-compose.yml" down "$@"
