@@ -9,6 +9,11 @@ weight = 1
   parent = "technical"
   
 +++
+<small>
+
+*From Z32 Wiki   - https://conceptzperformance.com/wiki/index.php/Jacking_Up_The_Z*  
+
+</small>
 
 The Z can be a difficult car to get into the air, and being that it's so low, it's pretty much essential for doing anything that's under the car. This guide aims to help you get your car into the air safely and easily.  
   

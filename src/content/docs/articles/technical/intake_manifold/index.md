@@ -9,9 +9,11 @@ linktitle = "Intake Manifold"
   parent = "technical"  
 +++
 
-_From Z32 Wiki_  
-_Retrieved from "[http://conceptzperformance.com/wiki/index.php?title=Intake\_Manifold&oldid=705](http://conceptzperformance.com/wiki/index.php?title=Intake_Manifold&oldid=705)"_
+<small>
 
+*From Z32 Wiki - http://conceptzperformance.com/wiki/index.php/Intake_Manifold*  
+
+</small>
 
 The **Intake Manifold** (sometimes called the **plenum**) is the main collector for the VG30DE(TT)'s intake system.  
 {{< img src="images/300zx_intake_manifold_texture_black.jpg" alt="A black powder-coated intake manifold" >}}  

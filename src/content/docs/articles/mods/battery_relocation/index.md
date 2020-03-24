@@ -10,8 +10,11 @@ linktitle = "Battery Relocation"
   parent = "mods"
 +++
 
-Taken from  
-[http://www.duanedibley.com/wordpress/cars/300zx/](http://www.duanedibley.com/wordpress/cars/300zx/)
+<small>
+
+*From duanedibley.com - [http://www.duanedibley.com/wordpress/cars/300zx/](http://www.duanedibley.com/wordpress/cars/300zx/)*  
+
+</small>
 
 ## Warning & Info
 Before going any further it is important to say the following.
