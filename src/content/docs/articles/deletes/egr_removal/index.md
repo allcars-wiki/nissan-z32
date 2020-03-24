@@ -46,7 +46,7 @@ However, there are of course tricks and work-arounds for these problems. This ar
 
 ### Prerequisite
 
-You must first [remove the intake manifold](Intake_Manifold_Removal.html "Intake Manifold Removal").  
+You must first [remove the intake manifold](../../technical/intake_manifold_removal "Intake Manifold Removal").  
 
 ### Engine-rocking Method
 
