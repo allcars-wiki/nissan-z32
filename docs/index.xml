@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Docs | Nissan Z32 Wiki</title><link>http://nissan-z32.allcars.wiki/docs/</link><atom:link href="http://nissan-z32.allcars.wiki/docs/index.xml" rel="self" type="application/rss+xml"/><description>Docs</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><image><url>img/map[gravatar:%!s(bool=false) shape:circle]</url><title>Docs</title><link>http://nissan-z32.allcars.wiki/docs/</link></image><item><title>Jacking up the Z</title><link>http://nissan-z32.allcars.wiki/docs/articles/technical/jacking_up/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://nissan-z32.allcars.wiki/docs/articles/technical/jacking_up/</guid><description>&lt;p>The Z can be a difficult car to get into the air, and being that it&amp;rsquo;s so low, it&amp;rsquo;s pretty much essential for doing anything that&amp;rsquo;s under the car. This guide aims to help you get your car into the air safely and easily.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Docs | Nissan Z32 Wiki</title><link>http://nissan-z32.allcars.wiki/docs/</link><atom:link href="http://nissan-z32.allcars.wiki/docs/index.xml" rel="self" type="application/rss+xml"/><description>Docs</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><image><url>img/map[gravatar:%!s(bool=false) shape:circle]</url><title>Docs</title><link>http://nissan-z32.allcars.wiki/docs/</link></image><item><title>Jacking up the Z</title><link>http://nissan-z32.allcars.wiki/docs/articles/technical/jacking_up/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://nissan-z32.allcars.wiki/docs/articles/technical/jacking_up/</guid><description>&lt;small>
+&lt;p>&lt;em>From Z32 Wiki - &lt;a href="https://conceptzperformance.com/wiki/index.php/Jacking_Up_The_Z">https://conceptzperformance.com/wiki/index.php/Jacking_Up_The_Z&lt;/a>&lt;/em>&lt;/p>
+&lt;/small>
+&lt;p>The Z can be a difficult car to get into the air, and being that it&amp;rsquo;s so low, it&amp;rsquo;s pretty much essential for doing anything that&amp;rsquo;s under the car. This guide aims to help you get your car into the air safely and easily.&lt;/p>
 &lt;p>Thanks to
 &lt;a href="http://zhome.com/ZCMnL/PICS/jackUpCar/jackUpCar.html" target="_blank" rel="noopener">ZHome&lt;/a> for original pictures and info.&lt;/p>
 &lt;h2 id="tools-and-parts">Tools and Parts&lt;/h2>
@@ -60,8 +63,10 @@
 &lt;/ol>
 &lt;h3 id="pinch-welds">Pinch Welds&lt;/h3>
 &lt;p>In emergency situations, the included jack (in the tool box) can be used to raise the Z from the pinch welds (side of the car). However, this should be avoided if possible as it will virtually guarantee damage to the pinch welds.&lt;br>
-Furthermore, NEVER raise the pinch-weld area where the frame meets the front fender &amp;ndash; this WILL cause damage.&lt;/p></description></item><item><title>Battery Relocation</title><link>http://nissan-z32.allcars.wiki/docs/articles/mods/battery_relocation/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://nissan-z32.allcars.wiki/docs/articles/mods/battery_relocation/</guid><description>&lt;p>Taken from&lt;br>
-&lt;a href="http://www.duanedibley.com/wordpress/cars/300zx/" target="_blank" rel="noopener">http://www.duanedibley.com/wordpress/cars/300zx/&lt;/a>&lt;/p>
+Furthermore, NEVER raise the pinch-weld area where the frame meets the front fender &amp;ndash; this WILL cause damage.&lt;/p></description></item><item><title>Battery Relocation</title><link>http://nissan-z32.allcars.wiki/docs/articles/mods/battery_relocation/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://nissan-z32.allcars.wiki/docs/articles/mods/battery_relocation/</guid><description>&lt;small>
+&lt;p>&lt;em>From duanedibley.com -
+&lt;a href="http://www.duanedibley.com/wordpress/cars/300zx/" target="_blank" rel="noopener">http://www.duanedibley.com/wordpress/cars/300zx/&lt;/a>&lt;/em>&lt;/p>
+&lt;/small>
 &lt;h2 id="warning--info">Warning &amp;amp; Info&lt;/h2>
 &lt;p>Before going any further it is important to say the following.&lt;/p>
 &lt;ul>
@@ -329,13 +334,19 @@ For me i have some specifics I want to address&lt;/p>
 &lt;img src="../docs/articles/mods/battery_relocation/images/charger_hu094babae42ad425e27cd25ba22529076_172411_400x0_resize_q90_lanczos.jpg#no-margin" width="400" alt="*Battery Charger*">
 &lt;/a>&lt;/p>
 &lt;h2 id="left-to-do">Left to Do&lt;/h2>
-&lt;p>What’s left to do is 3D print adaptors for the two vent holes on the battery so i can tube them to external. Its a “must do” item but not done yet&lt;/p></description></item><item><title>EGR Removal</title><link>http://nissan-z32.allcars.wiki/docs/articles/deletes/egr_removal/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://nissan-z32.allcars.wiki/docs/articles/deletes/egr_removal/</guid><description>&lt;p>The &lt;strong>EGR (Exhaust Gas Recirculation) system&lt;/strong> is designed to introduce exhaust gas into the intake manifold&lt;br>
-This lowers the combustion temperature to lower NOx emissions. It is a required emissions control system, and removal of it is likely all kinds of illegal. Here&amp;rsquo;s how to do it!&lt;/p>
-&lt;p>&lt;em>Images originally from
-&lt;a href="http://ttzd.com/" target="_blank" rel="noopener">TTZD.com&lt;/a>. A big thanks to the original author/photographer!&lt;/em>&lt;/p>
+&lt;p>What’s left to do is 3D print adaptors for the two vent holes on the battery so i can tube them to external. Its a “must do” item but not done yet&lt;/p></description></item><item><title>EGR Removal</title><link>http://nissan-z32.allcars.wiki/docs/articles/deletes/egr_removal/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://nissan-z32.allcars.wiki/docs/articles/deletes/egr_removal/</guid><description>&lt;small>
+&lt;p>&lt;em>From Z32 Wiki - &lt;a href="https://conceptzperformance.com/wiki/index.php/EGR_Removal">https://conceptzperformance.com/wiki/index.php/EGR_Removal&lt;/a>&lt;/em>&lt;br>
+&lt;em>Images originally from
+&lt;a href="http://ttzd.com/" target="_blank" rel="noopener">TTZD.com&lt;/a>&lt;/em>&lt;/p>
+&lt;/small>
+&lt;p>The &lt;strong>EGR (Exhaust Gas Recirculation) system&lt;/strong> is designed to introduce exhaust gas into the intake manifold&lt;br>
+This lowers the combustion temperature to lower NOx emissions.&lt;br>
+It is a required emissions control system, and removal of it is likely all kinds of illegal.&lt;br>
+Here&amp;rsquo;s how to do it!&lt;/p>
 &lt;h2 id="tools-required">Tools Required&lt;/h2>
 &lt;ul>
-&lt;li>Assortment of wrenches, ratchetss (10mm, 12mm and 14mm specifically). Flex heads, ratcheting wrenches, stubbies, etc are all very helpful here.&lt;/li>
+&lt;li>Assortment of wrenches, ratchetss (10mm, 12mm and 14mm specifically).&lt;br>
+Flex heads, ratcheting wrenches, stubbies, etc are all very helpful here.&lt;/li>
 &lt;li>Cutting tool (dremel tool) OR large prybar/ratchet straps.&lt;/li>
 &lt;li>A lot of patience.&lt;/li>
 &lt;/ul>
@@ -347,8 +358,12 @@ This lowers the combustion temperature to lower NOx emissions. It is a required 
 &lt;p>Removal of the EGR system is tricky, as it is in a very tight location.
 There are two major hiccups associated with this job:&lt;/p>
 &lt;ol>
-&lt;li>The bolts that hold the EGR valve to the engine are longer than the space between the EGR valve and the firewall.&lt;/li>
-&lt;li>The EGR tube that connects to the driver&amp;rsquo;s side exhaust manifold is extremely difficult to access.&lt;/li>
+&lt;li>
+&lt;p>The bolts that hold the EGR valve to the engine are longer than the space between the EGR valve and the firewall.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>The EGR tube that connects to the driver&amp;rsquo;s side exhaust manifold is extremely difficult to access.&lt;/p>
+&lt;/li>
 &lt;/ol>
 &lt;p>However, there are of course tricks and work-arounds for these problems. This article will hopefully explore these tricks.&lt;/p>
 &lt;h3 id="prerequisite">Prerequisite&lt;/h3>
@@ -357,80 +372,117 @@ There are two major hiccups associated with this job:&lt;/p>
 &lt;h3 id="engine-rocking-method">Engine-rocking Method&lt;/h3>
 &lt;p>One common way to remove the intake manifold is performed when you have the transmission removed for another job (such as a clutch/flywheel replacement or upgrade).&lt;/p>
 &lt;ol>
-&lt;li>Spray all EGR bolts in PB Blaster and wait a day!&lt;/li>
-&lt;li>After removing the transmission, remove the upper intake pipes (2 for the NA, 4 for the TT). This will allow more flex in the engine on its mounts.&lt;/li>
-&lt;li>Remove the vacuum line from the EGR valve (blue dot below).&lt;/li>
-&lt;li>Remove the side-tube EGR bolts and, as much as you can, loosen the main EGR bolts (2 x 12mm, green dots). Break the tubes loose from the EGR.&lt;br>
-&lt;a href="File_EGR_valve_components.html">&lt;img src="../images/0/03/EGR_valve_components.jpg" alt="EGR_valve_components.jpg">&lt;/a>&lt;/li>
-&lt;li>Move the engine forward, away from the firewall, to gain more access to the EGR. Continue to loosen the EGR bolts until they&amp;rsquo;re all the way out. There are two main methods I&amp;rsquo;ve heard of doing this:
+&lt;li>
+&lt;p>Spray all EGR bolts in PB Blaster and wait a day!&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>After removing the transmission, remove the upper intake pipes (2 for the NA, 4 for the TT). This will allow more flex in the engine on its mounts.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Remove the vacuum line from the EGR valve (blue dot below).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Remove the side-tube EGR bolts and, as much as you can, loosen the main EGR bolts (2 x 12mm, green dots). Break the tubes loose from the EGR.&lt;br>
+&lt;img src="../docs/articles/deletes/egr_removal/images/EGR_valve_components.jpg#no-margin" alt="*EGR_valve_components*">
+&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Move the engine forward, away from the firewall, to gain more access to the EGR. Continue to loosen the EGR bolts until they&amp;rsquo;re all the way out. There are two main methods I&amp;rsquo;ve heard of doing this:&lt;/p>
 &lt;ul>
 &lt;li>Putting down plenty of towels to protect the body work, run a ratchet strap from the engine (if you can find a good place to hook it onto) to a secured source, like a tree or a beam. With the parking brake in and the car in gear, ratchet the strap just enough to pull the engine forward and give you clearance to remove the bolts all the way.&lt;/li>
 &lt;li>Again, using plenty of padding, use a large pry-bar between the engine and the firewall to push the engine forward and away from the firewall, giving you clearance to remove the bolts. This one will likely require a partner.&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>Remove the exhaust feed tube (pink dot above) fitting with a large adjustable wrench.
-&lt;ul>
-&lt;li>If you have trouble accessing it, remove the driver&amp;rsquo;s side water pipe (yellow dots).&lt;/li>
-&lt;/ul>
+&lt;li>
+&lt;p>Remove the exhaust feed tube (pink dot above) fitting with a large adjustable wrench.
+&lt;em>If you have trouble accessing it, remove the driver&amp;rsquo;s side water pipe (yellow dots)&lt;/em>&lt;/p>
 &lt;/li>
-&lt;li>Remove the exhaust feed tube fitting from the driver&amp;rsquo;s side exhaust manifold. This may require removal of the brake booster to access it. If you happen to have a RHD car, removal of the battery should be sufficient.&lt;/li>
-&lt;li>Remove the EGR valve.&lt;br>
-&lt;a href="File_EGR_valve_removed.html">&lt;img src="../images/d/d6/EGR_valve_removed.jpg" alt="EGR_valve_removed.jpg">&lt;/a>&lt;/li>
-&lt;li>Remove the EGR solenoid and associated vacuum lines. Check out the
-&lt;a href="Vacuum_Diagrams.html" title="Vacuum Diagrams">Vacuum Diagrams&lt;/a> article for a little more help seeing how this is done.&lt;/li>
-&lt;li>Skip to the &amp;ldquo;Bypass Kit Installation&amp;rdquo; section below.&lt;/li>
+&lt;li>
+&lt;p>Remove the exhaust feed tube fitting from the driver&amp;rsquo;s side exhaust manifold. This may require removal of the brake booster to access it. If you happen to have a RHD car, removal of the battery should be sufficient.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Remove the EGR valve.&lt;br>
+&lt;img src="../docs/articles/deletes/egr_removal/images/EGR_valve_removed.jpg#no-margin" alt="*EGR_valve_removed*">
+&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Remove the EGR solenoid and associated vacuum lines.&lt;br>
+Check out the
+&lt;a href="../../technical/vacuum_diagrams" title="Vacuum Diagrams">Vacuum Diagrams&lt;/a> article for a little more help seeing how this is done.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Skip to the &amp;ldquo;Bypass Kit Installation&amp;rdquo; section below.&lt;/p>
+&lt;/li>
 &lt;/ol>
 &lt;h3 id="bolt-cutting-method">Bolt-Cutting Method&lt;/h3>
 &lt;p>The other common method to removing the EGR valve is to cut the bolts at the rear of the engine.&lt;/p>
 &lt;ol>
-&lt;li>Spray all EGR bolts in PB Blaster and wait a day!&lt;/li>
-&lt;li>Remove the vacuum line from the EGR valve (blue dot below).&lt;/li>
-&lt;li>Remove the side-tube EGR bolts and, as much as you can, loosen the main EGR bolts (2 x 12mm, green dots). Break the tubes loose from the EGR.&lt;br>
-&lt;a href="File_EGR_valve_components.html">&lt;img src="../images/0/03/EGR_valve_components.jpg" alt="EGR_valve_components.jpg">&lt;/a>&lt;/li>
-&lt;li>After loosening the main EGR bolts (2 x 12mm, two center green dots above), continue to loosen one until it&amp;rsquo;s touching the firewall, but still has to come out more. Using your cutting wheel, cut the bolt about 0.5&amp;rdquo; to 1.0&amp;rdquo; from the EGR valve.&lt;/li>
-&lt;li>Using vice-grip pliers, continue to remove the EGR bolt you just cut. If you it gets to the firewall again, cut some more off and repeat.&lt;/li>
-&lt;li>After you get one bolt all the way out, repeat steps 4 and 5 for the other bolt. Doing one at a time allows you to have more &amp;ldquo;wiggle room&amp;rdquo; with the pliers.&lt;/li>
-&lt;li>Remove the exhaust feed tube (pink dot above) fitting with a large adjustable wrench.
-&lt;ul>
-&lt;li>If you have trouble accessing it, remove the driver&amp;rsquo;s side water pipe (yellow dots).&lt;/li>
-&lt;/ul>
+&lt;li>
+&lt;p>Spray all EGR bolts in PB Blaster and wait a day!&lt;/p>
 &lt;/li>
-&lt;li>Remove the exhaust feed tube fitting from the driver&amp;rsquo;s side exhaust manifold. This may require removal of the brake booster to access it. If you happen to have a RHD car, removal of the battery should be sufficient.&lt;/li>
-&lt;li>Remove the EGR valve.&lt;br>
-&lt;a href="File_EGR_valve_removed.html">&lt;img src="../images/d/d6/EGR_valve_removed.jpg" alt="EGR_valve_removed.jpg">&lt;/a>&lt;/li>
-&lt;li>Remove the EGR solenoid and associated vacuum lines. Check out the
-&lt;a href="Vacuum_Diagrams.html" title="Vacuum Diagrams">Vacuum Diagrams&lt;/a> article for a little more help seeing how this is done.&lt;/li>
-&lt;li>Skip to the &amp;ldquo;Bypass Kit Installation&amp;rdquo; section below.&lt;/li>
+&lt;li>
+&lt;p>Remove the vacuum line from the EGR valve (blue dot below).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Remove the side-tube EGR bolts and, as much as you can, loosen the main EGR bolts (2 x 12mm, green dots). Break the tubes loose from the EGR.&lt;br>
+&lt;img src="../docs/articles/deletes/egr_removal/images/EGR_valve_components.jpg#no-margin" alt="*EGR_valve_components*">
+&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>After loosening the main EGR bolts (2 x 12mm, two center green dots above), continue to loosen one until it&amp;rsquo;s touching the firewall, but still has to come out more. Using your cutting wheel, cut the bolt about 0.5&amp;rdquo; to 1.0&amp;rdquo; from the EGR valve.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Using vice-grip pliers, continue to remove the EGR bolt you just cut. If you it gets to the firewall again, cut some more off and repeat.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>After you get one bolt all the way out, repeat steps 4 and 5 for the other bolt. Doing one at a time allows you to have more &amp;ldquo;wiggle room&amp;rdquo; with the pliers.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Remove the exhaust feed tube (pink dot above) fitting with a large adjustable wrench.
+&lt;em>If you have trouble accessing it, remove the driver&amp;rsquo;s side water pipe (yellow dots)&lt;/em>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Remove the exhaust feed tube fitting from the driver&amp;rsquo;s side exhaust manifold. This may require removal of the brake booster to access it. If you happen to have a RHD car, removal of the battery should be sufficient.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Remove the EGR valve.&lt;br>
+&lt;img src="../docs/articles/deletes/egr_removal/images/EGR_valve_removed.jpg#no-margin" alt="*EGR_valve_removed*">
+se&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Remove the EGR solenoid and associated vacuum lines.&lt;br>
+Check out the
+&lt;a href="../../technical/vacuum_diagrams" title="Vacuum Diagrams">Vacuum Diagrams&lt;/a> article for a little more help seeing how this is done.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Skip to the &amp;ldquo;Bypass Kit Installation&amp;rdquo; section below.&lt;/p>
+&lt;/li>
 &lt;/ol>
 &lt;h3 id="bypassing-without-removal">Bypassing Without Removal&lt;/h3>
 &lt;p>Due to tool, time, or physical restraints, it&amp;rsquo;s sometimes impossible to remove the EGR system completely without removing the engine from the car. Many owners still opt to bypass the system, leaving much of it still in place but without function.&lt;/p>
 &lt;ol>
-&lt;li>After removing the plenum, install the plenum block plates on the underside of the plenum.
-&lt;ul>
-&lt;li>See the &amp;ldquo;Bypass Kit Installation&amp;rdquo; section below.&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>Using a cutting tool, cut the EGR tubes as far towards the back of the engine as possible. Be sure to have any pipes (turbo outlets, for example) completely covered to prevent metal shavings from entering&lt;/li>
-&lt;li>Install a rubber cap (5/8&amp;rdquo;?) on what&amp;rsquo;s left of the EGR tube. Use a zip-tie to secure it in place.
-&lt;ul>
-&lt;li>If the EGR valve is functioning properly, it will actually prevent exhaust gas from flowing through these if it doesn&amp;rsquo;t have a vacuum signal, but this is still good practice, just-in-case.&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>Remove the EGR solenoid and associated vacuum lines. Check out the
-&lt;a href="Vacuum_Diagrams.html" title="Vacuum Diagrams">Vacuum Diagrams&lt;/a> article for a little more help seeing how this is done.&lt;/li>
+&lt;li>After removing the plenum, install the plenum block plates on the underside of the plenum.&lt;br>
+&lt;em>See the
+&lt;a href="#bypass-kit-installation">Bypass Kit Installation&lt;/a> section below&lt;/em>&lt;/li>
+&lt;li>Using a cutting tool, cut the EGR tubes as far towards the back of the engine as possible.&lt;br>
+Be sure to have any pipes (turbo outlets, for example) completely covered to prevent metal shavings from entering&lt;/li>
+&lt;li>Install a rubber cap (5/8&amp;rdquo;?) on what&amp;rsquo;s left of the EGR tube. Use a zip-tie to secure it in place.&lt;br>
+If the EGR valve is functioning properly, it will actually prevent exhaust gas from flowing through these if it doesn&amp;rsquo;t have a vacuum signal, but this is still good practice, just-in-case.&lt;/li>
+&lt;li>Remove the EGR solenoid and associated vacuum lines.&lt;br>
+Check out the
+&lt;a href="../../technical/vacuum_diagrams" title="Vacuum Diagrams">Vacuum Diagrams&lt;/a> article for a little more help seeing how this is done.&lt;/li>
 &lt;/ol>
 &lt;h2 id="bypass-kit-installation">Bypass Kit Installation&lt;/h2>
 &lt;p>After removing the EGR system, it&amp;rsquo;s quite straightforward to install the delete/bypass kit.&lt;/p>
 &lt;ol>
 &lt;li>Install the plenum block plates on the underside of the plenum, using the included gasket. Snug the bolts down to 6.2-8 lb-ft.&lt;/li>
 &lt;li>Using some high-temp anti-seize on the threads, install the manifold block-plug into the driver&amp;rsquo;s side exhaust manifold. Torque to 25-33 lb-ft.&lt;/li>
-&lt;li>Remove the EGR solenoid and associated vacuum lines. Check out the
-&lt;a href="Vacuum_Diagrams.html" title="Vacuum Diagrams">Vacuum Diagrams&lt;/a> article for a little more help seeing how this is done. Most delete kits also include a vacuum nipple and zip tie, which can be used to block the vacuum port which used to run to the EGR solenoid from under the passenger side throttle body.&lt;/li>
-&lt;/ol>
-&lt;p>Retrieved from &amp;ldquo;
-&lt;a href="http://conceptzperformance.com/wiki/index.php?title=EGR_Removal&amp;amp;oldid=671" target="_blank" rel="noopener">http://conceptzperformance.com/wiki/index.php?title=EGR_Removal&amp;amp;oldid=671&lt;/a>&amp;rdquo;&lt;/p></description></item><item><title>Intake Manifold</title><link>http://nissan-z32.allcars.wiki/docs/articles/technical/intake_manifold/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://nissan-z32.allcars.wiki/docs/articles/technical/intake_manifold/</guid><description>&lt;p>&lt;em>From Z32 Wiki&lt;/em>&lt;br>
-&lt;em>Retrieved from &amp;ldquo;
-&lt;a href="http://conceptzperformance.com/wiki/index.php?title=Intake_Manifold&amp;amp;oldid=705" target="_blank" rel="noopener">http://conceptzperformance.com/wiki/index.php?title=Intake_Manifold&amp;amp;oldid=705&lt;/a>&amp;quot;&lt;/em>&lt;/p>
+&lt;li>Remove the EGR solenoid and associated vacuum lines.&lt;br>
+Check out the
+&lt;a href="../../technical/vacuum_diagrams" title="Vacuum Diagrams">Vacuum Diagrams&lt;/a> article for a little more help seeing how this is done. Most delete kits also include a vacuum nipple and zip tie, which can be used to block the vacuum port which used to run to the EGR solenoid from under the passenger side throttle body.&lt;/li>
+&lt;/ol></description></item><item><title>Intake Manifold</title><link>http://nissan-z32.allcars.wiki/docs/articles/technical/intake_manifold/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://nissan-z32.allcars.wiki/docs/articles/technical/intake_manifold/</guid><description>&lt;small>
+&lt;p>&lt;em>From Z32 Wiki - &lt;a href="http://conceptzperformance.com/wiki/index.php/Intake_Manifold">http://conceptzperformance.com/wiki/index.php/Intake_Manifold&lt;/a>&lt;/em>&lt;/p>
+&lt;/small>
 &lt;p>The &lt;strong>Intake Manifold&lt;/strong> (sometimes called the &lt;strong>plenum&lt;/strong>) is the main collector for the VG30DE(TT)&amp;lsquo;s intake system.&lt;br>
 &lt;img src="../docs/articles/technical/intake_manifold/images/300zx_intake_manifold_texture_black.jpg#no-margin" alt="*A black powder-coated intake manifold*">
 &lt;/p>
@@ -486,7 +538,9 @@ The same holds true for RHD and LHD Zs.&lt;/p>
 &lt;ul>
 &lt;li>
 &lt;a href="../intake_manifold_removal" title="Intake Manifold Removal">Intake Manifold Removal&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Intake Manifold Removal</title><link>http://nissan-z32.allcars.wiki/docs/articles/technical/intake_manifold_removal/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://nissan-z32.allcars.wiki/docs/articles/technical/intake_manifold_removal/</guid><description>&lt;p>&lt;em>From Z32 Wiki&lt;/em>&lt;/p>
+&lt;/ul></description></item><item><title>Intake Manifold Removal</title><link>http://nissan-z32.allcars.wiki/docs/articles/technical/intake_manifold_removal/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://nissan-z32.allcars.wiki/docs/articles/technical/intake_manifold_removal/</guid><description>&lt;small>
+&lt;p>&lt;em>From Z32 Wiki - &lt;a href="https://conceptzperformance.com/wiki/index.php/Intake_Manifold_Removal">https://conceptzperformance.com/wiki/index.php/Intake_Manifold_Removal&lt;/a>&lt;/em>&lt;/p>
+&lt;/small>
 &lt;p>Removal of the
 &lt;a href="../intake_manifold" title="Intake Manifold">Intake Manifold&lt;/a> (also called the &lt;strong>plenum&lt;/strong>) is necessary or helpful to perform several jobs on the VG30DE(TT), such as:&lt;/p>
 &lt;ul>
@@ -500,35 +554,6 @@ The same holds true for RHD and LHD Zs.&lt;/p>
 &lt;/ul>
 &lt;p>The most common reason to remove the intake manifold is to replace one or more faulty fuel injectors, and other jobs are usually performed at the same time due to the amount of labor required to remove the intake manifold. While it can be done in less than an hour (especially after doing various deletes/bypasses), it involves removal of multiple engine technologies, from coilpacks and vacuum lines, to fuel lines and EGR tubes. This is often intimidating for owners, and is often considered to be a much harder job than many feel it actually is. If you&amp;rsquo;re new at this, bag and label &lt;strong>everything!&lt;/strong>. In any case, a handy guide with pictures makes everything easier!&lt;/p>
 &lt;p>&lt;em>Pictures and info from this article are a combination of those from NytWolf, those found on the Tech section of Aus300ZX, and various other sources (including my own noggin). A huge thanks goes out to the original photographers and writers for the work they put into making these writeups, which have saved headaches for hundreds of Z owners.&lt;/em>&lt;/p>
-&lt;h2 id="contents">Contents&lt;/h2>
-&lt;p> [hide] &lt;/p>
-&lt;ul>
-&lt;li>
-&lt;a href="#Recommended_Parts">1 Recommended Parts&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#Tools_Needed">2 Tools Needed&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#Procedure">3 Procedure&lt;/a>
-&lt;ul>
-&lt;li>
-&lt;a href="#Upper_Components">3.1 Upper Components&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#Intake_Pipes">3.2 Intake Pipes&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#Driver.27s_Side">3.3 Driver&amp;rsquo;s Side&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#Passenger_Side">3.4 Passenger Side&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#Rear_Side">3.5 Rear Side&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#Upper_Plenum">3.6 Upper Plenum&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;a href="#Post-Removal_Jobs">4 Post-Removal Jobs&lt;/a>&lt;/li>
-&lt;li>
-&lt;a href="#Re-installation">5 Re-installation&lt;/a>&lt;/li>
-&lt;/ul>
 &lt;h2 id="recommended-parts">Recommended Parts&lt;/h2>
 &lt;ul>
 &lt;li>Intake Manifold Gasket (upper plenum to lower plenum) (Part #14033-30P02). &lt;strong>Required.&lt;/strong> This is a paper gasket that is destroyed upon removal and &lt;em>must&lt;/em> be replaced. OEM Nissan is recommended (and is very cheap).&lt;/li>
@@ -549,86 +574,102 @@ The same holds true for RHD and LHD Zs.&lt;/p>
 &lt;h2 id="procedure">Procedure&lt;/h2>
 &lt;h3 id="upper-components">Upper Components&lt;/h3>
 &lt;p>The image below will be used as supplemental reference for the following steps.&lt;br>
-&lt;a href="../wiki/index.php/File:1.jpg">&lt;img src="../wiki/images/thumb/f/f3/1.jpg/300px-1.jpg" alt="1.jpg">&lt;/a>&lt;br>
+&lt;img src="../docs/articles/technical/intake_manifold_removal/images/plenum.jpg#no-margin" alt="*Plenum*">
+&lt;br>
 We&amp;rsquo;ll start by concentrating the components on and around the top of the intake manifold.&lt;/p>
 &lt;ol>
 &lt;li>
 &lt;p>Relieve fuel pressure from the system (
-&lt;a href="../wiki/index.php/Fuel_Pressure_Relief" title="Fuel Pressure Relief">link&lt;/a>).&lt;/p>
+&lt;a href="../fuel_pressure_relief" title="Fuel Pressure Relief">Fuel Pressure Relief&lt;/a>)&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>Remove throttle cable cover (Item &lt;strong>3&lt;/strong>) (green dot; 4x5mm Allen bolts).&lt;br>
-&lt;a href="../wiki/index.php/File:Injectors0001.jpg">&lt;img src="../wiki/images/4/43/Injectors0001.jpg" alt="injectors0001.jpg">&lt;/a>&lt;/p>
+&lt;img src="../docs/articles/technical/intake_manifold_removal/images/cable_cover.jpg#no-margin" alt="*cable cover*">
+&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Slightly loosen 14mm bolts holding the throttle cable and cruise control cable to the bracket on the upper plenum. You may have to remove some little bracket guides (10mm bolts) that bind the cables to the plenum. The cruise control can optionally be removed, but I&amp;rsquo;ve found you can just gently flex the cables out of the way. The wiper blades do a good job holding them down.&lt;br>
-&lt;a href="../wiki/index.php/File:Linkage03.jpg">&lt;img src="../wiki/images/c/cd/Linkage03.jpg" alt="linkage03.jpg">&lt;/a>&lt;/p>
+&lt;p>Slightly loosen 14mm bolts holding the throttle cable and cruise control cable to the bracket on the upper plenum.&lt;br>
+You may have to remove some little bracket guides (10mm bolts) that bind the cables to the plenum.&lt;br>
+The cruise control can optionally be removed, but I&amp;rsquo;ve found you can just gently flex the cables out of the way. The wiper blades do a good job holding them down.&lt;br>
+&lt;img src="../docs/articles/technical/intake_manifold_removal/images/linkage.jpg#no-margin" alt="*linkage*">
+&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Disconnect all vacuum lines attached to the balance tube (yellow dots pictured below). It may be helpful to label them&amp;ndash;tape and a marker work well.&lt;/p>
+&lt;p>Disconnect all vacuum lines attached to the balance tube (yellow dots pictured below).&lt;br>
+It may be helpful to label them&amp;ndash;tape and a marker work well.&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Remove the 3x12mm nuts and 2x12mm bolts holding the balance tube to the plenum (green dots below).&lt;br>
-&lt;a href="../wiki/index.php/File:Injectors0003.jpg">&lt;img src="../wiki/images/1/1e/Injectors0003.jpg" alt="injectors0003.jpg">&lt;/a>
-&lt;a href="../wiki/index.php/File:Injectors0004.jpg">&lt;img src="../wiki/images/f/fa/Injectors0004.jpg" alt="injectors0004.jpg">&lt;/a>&lt;/p>
+&lt;p>Remove the 3x12mm nuts and 2x12mm bolts holding the balance tube to the plenum (green dots below).
+&lt;img src="../docs/articles/technical/intake_manifold_removal/images/balance_tube.jpg#no-margin" alt="*balance tube*">
+&lt;br>
+&lt;img src="../docs/articles/technical/intake_manifold_removal/images/balance_tube_02.jpg#no-margin" alt="*balance tube*">
+&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Remove the large vacuum lines that run to the brake booster and clutch booster (on M/T TT Models) (Items &lt;strong>6&lt;/strong>). Also remove the vacuum line from the front barb fitting (the one leading to the clutch booster on applicable models).&lt;/p>
+&lt;p>Remove the large vacuum lines that run to the brake booster and clutch booster (on M/T TT Models) (Items &lt;strong>6&lt;/strong>).
+Also remove the vacuum line from the front barb fitting (the one leading to the clutch booster on applicable models).&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>There is a tube that runs from the driver&amp;rsquo;s side accordion pipe to the IACV at the back of the plenum (Item &lt;strong>14&lt;/strong>). Remove the 10mm bolt securing it to the plenum. Loosen its hose clamps (at the accordion pipe and where it meets the IACV) and remove this pipe assembly.&lt;/p>
-&lt;ul>
-&lt;li>It may be necessary to remove the barb fittings for the clutch and brake boosters that attach to the plenum in order to remove this pipe.&lt;/li>
-&lt;/ul>
+&lt;p>There is a tube that runs from the driver&amp;rsquo;s side accordion pipe to the IACV at the back of the plenum (Item &lt;strong>14&lt;/strong>).&lt;br>
+Remove the 10mm bolt securing it to the plenum. Loosen its hose clamps (at the accordion pipe and where it meets the IACV) and remove this pipe assembly.&lt;br>
+&lt;em>It may be necessary to remove the barb fittings for the clutch and brake boosters that attach to the plenum in order to remove this pipe&lt;/em>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Loosen the hose clamp for the Air Regulator Hose at the back/center of the Balance Tube. Remove this hose.&lt;/p>
-&lt;ul>
-&lt;li>If you can&amp;rsquo;t get this hose off, don&amp;rsquo;t sweat it&amp;ndash;you can pull away from it while removing the balance tube, which makes it much easier.&lt;/li>
-&lt;/ul>
+&lt;p>Loosen the hose clamp for the Air Regulator Hose at the back/center of the Balance Tube. Remove this hose.
+&lt;em>If you can&amp;rsquo;t get this hose off, don&amp;rsquo;t sweat it&amp;ndash;you can pull away from it while removing the balance tube, which makes it much easier&lt;/em>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Disconnect the fuel lines that go from the Fuel Dampener to the Fuel Rail, and from the Fuel Rail to the FPR (circled in red).&lt;/p>
-&lt;p>
-&lt;a href="../wiki/index.php/File:Hoses_to_remove.png">&lt;img src="../wiki/images/thumb/1/1b/Hoses_to_remove.png/300px-Hoses_to_remove.png" alt="hoses_to_remove.png">&lt;/a>&lt;/p>
-&lt;p>(Click to see full size)&lt;/p>
+&lt;p>Disconnect the fuel lines that go from the Fuel Dampener to the Fuel Rail, and from the Fuel Rail to the FPR (circled in red).&lt;br>
+&lt;img src="../docs/articles/technical/intake_manifold_removal/images/hoses_to_remove.png#no-margin" alt="*hose to remove*">
+&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>Remove the bolts that hold the Fuel Dampener and Fuel Pressure Regulator to the plenum. (2x10mm for each).&lt;br>
-&lt;a href="../wiki/index.php/File:Injectors0012.jpg">&lt;img src="../wiki/images/0/05/Injectors0012.jpg" alt="injectors0012.jpg">&lt;/a>&lt;/p>
+&lt;img src="../docs/articles/technical/intake_manifold_removal/images/fuel_pipe_01.jpg#no-margin" alt="*fuel pipe*">
+&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>Remove the 3x10mm bolts that secure the upper fuel gallery to the plenum. Remove the fuel gallery.&lt;br>
-&lt;a href="../wiki/index.php/File:Injectors0013.jpg">&lt;img src="../wiki/images/1/1f/Injectors0013.jpg" alt="injectors0013.jpg">&lt;/a>
-* I tend to leave the two main hoses (feed and return) connected to the fuel gallery and simply flex them and set the gallery off to the side. To be extra cautious, feel free to remove these hoses and the fuel gallery completely. Be aware that fuel can quickly damage paint, so keep this in mind when fiddling with the fuel gallery.&lt;/p>
+&lt;img src="../docs/articles/technical/intake_manifold_removal/images/fuel_gallery.jpg#no-margin" alt="*fuel gallery*">
+&lt;br>
+&lt;em>I tend to leave the two main hoses (feed and return) connected to the fuel gallery and simply flex them and set the gallery off to the side. To be extra cautious, feel free to remove these hoses and the fuel gallery completely. Be aware that fuel can quickly damage paint, so keep this in mind when fiddling with the fuel gallery.&lt;/em>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Disconnect the electrical connectors for the six coilpacks (yellow dots below). Remove the coilpack wire guides (philips screw head, blue dot) and, if necessary, the oil cap (red dot).&lt;/p>
+&lt;p>Disconnect the electrical connectors for the six coilpacks (yellow dots below).&lt;br>
+Remove the coilpack wire guides (philips screw head, blue dot) and, if necessary, the oil cap (red dot).&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>Remove the 12x12mm bolts (2 each; green dots below) that secure the coilpacks to the plenum. Remove the coil packs.&lt;br>
-&lt;a href="../wiki/index.php/File:Injectors0007.jpg">&lt;img src="../wiki/images/5/5d/Injectors0007.jpg" alt="injectors0007.jpg">&lt;/a>
-&lt;a href="../wiki/index.php/File:Injectors0014.jpg">&lt;img src="../wiki/images/c/c6/Injectors0014.jpg" alt="injectors0014.jpg">&lt;/a>&lt;/p>
+&lt;img src="../docs/articles/technical/intake_manifold_removal/images/coil_pack_01.jpg#no-margin" alt="*coil pack*">
+&lt;br>
+&lt;img src="../docs/articles/technical/intake_manifold_removal/images/coil_pack_02.jpg#no-margin" alt="*coil pack*">
+&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Remove the injector connectors from each of the six fuel injectors. This is where your dental pics come in handy (if you have Phase 1 injectors).
-* If you lose the little spring clips, don&amp;rsquo;t worry. You can recover them once you get the plenum off, and many don&amp;rsquo;t run them at all&amp;ndash;a small dab of RTV on the flat (non-electrical) face of the component will help secure the connectors.&lt;/p>
+&lt;p>Remove the injector connectors from each of the six fuel injectors.&lt;br>
+This is where your dental pics come in handy (if you have Phase 1 injectors).
+&lt;em>If you lose the little spring clips, don&amp;rsquo;t worry. You can recover them once you get the plenum off, and many don&amp;rsquo;t run them at all&amp;ndash;a small dab of RTV on the flat (non-electrical) face of the component will help secure the connectors.&lt;/em>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Remove the connectors to the IACV components (more dental pick mayhem):
-* AAC (Yellow connector)
-* FICD (Blue connector)
-* Air Regulator (Blue Connector)&lt;/p>
+&lt;p>Remove the connectors to the IACV components (more dental pick mayhem):&lt;/p>
+&lt;ul>
+&lt;li>AAC (Yellow connector)&lt;/li>
+&lt;li>FICD (Blue connector)&lt;/li>
+&lt;li>Air Regulator (Blue Connector)&lt;/li>
+&lt;/ul>
 &lt;/li>
 &lt;li>
 &lt;p>Disconnect the TPS (spring clip at the front, regular oval connector at the pigtail)&lt;br>
-&lt;a href="../wiki/index.php/File:Tps.jpg">&lt;img src="../wiki/images/d/d8/Tps.jpg" alt="tps.jpg">&lt;/a>&lt;/p>
+&lt;img src="../docs/articles/technical/intake_manifold_removal/images/tps_01.jpg#no-margin" alt="*tps*">
+&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Remove the two ground wires (1x10mm bolt each). One is near the rear passenger side of the plenum. The other is near the rear driver&amp;rsquo;s side.&lt;/p>
+&lt;p>Remove the two ground wires (1x10mm bolt each).&lt;br>
+One is near the rear passenger side of the plenum. The other is near the rear driver&amp;rsquo;s side.&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Flex the wiring harness up and out of the way. I also tend to use the wiper blades to hug this to the windshield and keep it out of my face.&lt;/p>
+&lt;p>Flex the wiring harness up and out of the way.&lt;br>
+I also tend to use the wiper blades to hug this to the windshield and keep it out of my face.&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>Go take a break!&lt;/p>
@@ -636,66 +677,108 @@ We&amp;rsquo;ll start by concentrating the components on and around the top of t
 &lt;/ol>
 &lt;h3 id="intake-pipes">Intake Pipes&lt;/h3>
 &lt;ol>
-&lt;li>Remove the throttle intake pipes. These are the two pipes that connect directly to the throttle bodies. Plug these pipes.&lt;/li>
-&lt;li>TT Models: remove the front turbo outlets. These are the &amp;ldquo;outer&amp;rdquo; intake pipes that run from the turbo outlets to the intercoolers. Plug these pipes.&lt;/li>
-&lt;li>TT Models: On each side of the plenum are &amp;ldquo;support brackets&amp;rdquo; that connect the intake manifold to the heads, and each have a 10mm bolt (blue dot) connecting the turbo outlets. Remove these two bolts. Also remove the two 12mm bolts (orange dots) securing this bracket to the plenum.&lt;br>
-&lt;a href="../wiki/index.php/File:Injectors0020.jpg">&lt;img src="../wiki/images/7/75/Injectors0020.jpg" alt="injectors0020.jpg">&lt;/a>&lt;/li>
-&lt;li>TT Models: Grab a stubby screwdriver and loosen the upper hose clamp that secures the turbo outlet pipes to the rubber couplers on the turbochargers.&lt;br>
-&lt;a href="../wiki/index.php/File:Turbo_outlets.jpg">&lt;img src="../wiki/images/thumb/2/20/Turbo_outlets.jpg/300px-Turbo_outlets.jpg" alt="turbo_outlets.jpg">&lt;/a>&lt;/li>
-&lt;li>TT Models: Remove the turbo outlet pipes. Plug these openings.&lt;/li>
+&lt;li>
+&lt;p>Remove the throttle intake pipes.
+These are the two pipes that connect directly to the throttle bodies. Plug these pipes.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>TT Models: remove the front turbo outlets.&lt;br>
+These are the &amp;ldquo;outer&amp;rdquo; intake pipes that run from the turbo outlets to the intercoolers. Plug these pipes.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>TT Models: On each side of the plenum are &amp;ldquo;support brackets&amp;rdquo; that connect the intake manifold to the heads, and each have a 10mm bolt (blue dot) connecting the turbo outlets.
+Remove these two bolts. Also remove the two 12mm bolts (orange dots) securing this bracket to the plenum.&lt;br>
+&lt;img src="../docs/articles/technical/intake_manifold_removal/images/intake_pipes.jpg#no-margin" alt="*intake pipes*">
+&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>TT Models&lt;/strong>: Grab a stubby screwdriver and loosen the upper hose clamp that secures the turbo outlet pipes to the rubber couplers on the turbochargers.&lt;br>
+&lt;img src="../docs/articles/technical/intake_manifold_removal/images/turbo_outlets.jpg#no-margin" alt="*turbo outlets*">
+&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>TT Models&lt;/strong>: Remove the turbo outlet pipes. Plug these openings.&lt;/p>
+&lt;/li>
 &lt;/ol>
 &lt;h3 id="drivers-side">Driver&amp;rsquo;s Side&lt;/h3>
 &lt;p>Let&amp;rsquo;s concentrate on some components on the driver&amp;rsquo;s side for a bit.&lt;br>
-&lt;a href="../wiki/index.php/File:2.jpg">&lt;img src="../wiki/images/thumb/1/15/2.jpg/300px-2.jpg" alt="2.jpg">&lt;/a>&lt;/p>
+&lt;img src="../docs/articles/technical/intake_manifold_removal/images/engine_left.jpg#no-margin" alt="*Engine Left*">
+&lt;/p>
 &lt;ol>
-&lt;li>Loose and slide-off the hose clamp for the PCV hose (Item &lt;strong>1&lt;/strong>). If you plan on replacing these hoses, cut that shit off.&lt;/li>
-&lt;li>Remove the throttle body coolant lines (Items &lt;strong>2&lt;/strong> and &lt;strong>3&lt;/strong>). If you are doing the coolant line bypass (&lt;strong>highly recommended&lt;/strong>), save yourself some trouble and just cut these hoses.&lt;/li>
-&lt;li>Remove the bolts (2x10mm) securing the EGR feed line to the plenum underside.
+&lt;li>
+&lt;p>Loose and slide-off the hose clamp for the PCV hose (Item &lt;strong>1&lt;/strong>).&lt;br>
+If you plan on replacing these hoses, cut that shit off.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Remove the throttle body coolant lines (Items &lt;strong>2&lt;/strong> and &lt;strong>3&lt;/strong>).&lt;br>
+If you are doing the coolant line bypass (&lt;strong>highly recommended&lt;/strong>), save yourself some trouble and just cut these hoses.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Remove the bolts (2x10mm) securing the EGR feed line to the plenum underside.&lt;/p>
 &lt;ul>
-&lt;li>Remember earlier when I said to plug the pipes you removed? Make sure it&amp;rsquo;s done! These EGR bolts are &lt;strong>notorious&lt;/strong> for falling into the turbo inlet pipe.&lt;/li>
+&lt;li>Remember earlier when I said to plug the pipes you removed? Make sure it&amp;rsquo;s done! These EGR bolts are &lt;strong>notorious&lt;/strong> for falling into the turbo inlet pipe.*&lt;/li>
 &lt;li>These are a total bitch to remove, but play around with different combinations of extensions, swivel joints/flex joints, stubby wrenches, etc, and find what works for you.&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;/ol>
 &lt;h3 id="passenger-side">Passenger Side&lt;/h3>
 &lt;p>Moving over to the passenger side&amp;hellip;&lt;br>
-&lt;a href="../wiki/index.php/File:3.jpg">&lt;img src="../wiki/images/thumb/7/79/3.jpg/300px-3.jpg" alt="3.jpg">&lt;/a>&lt;/p>
+&lt;img src="../docs/articles/technical/intake_manifold_removal/images/engine_right.jpg#no-margin" alt="*Engine Right*">
+&lt;/p>
 &lt;ol>
-&lt;li>Remove the throttle body coolant line (not labeled above, but it&amp;rsquo;s in the same position as on the driver&amp;rsquo;s side).
-&lt;ul>
-&lt;li>If you&amp;rsquo;re doing the coolant line bypass (highly recommended), just save yourself the grief and cut these off.&lt;/li>
-&lt;/ul>
+&lt;li>
+&lt;p>Remove the throttle body coolant line (not labeled above, but it&amp;rsquo;s in the same position as on the driver&amp;rsquo;s side).
+&lt;em>If you&amp;rsquo;re doing the coolant line bypass (highly recommended), just save yourself the grief and cut these off.&lt;/em>&lt;/p>
 &lt;/li>
-&lt;li>Loosen the hose clamp for the PCV hose (Item &lt;strong>8&lt;/strong>). If you&amp;rsquo;re replacing the PCV hose, just cut the old one.&lt;/li>
-&lt;li>Remove the rear coolant line (on turbo models) (item &lt;strong>9&lt;/strong>).&lt;/li>
-&lt;li>Remove the EGR tube (item &lt;strong>7&lt;/strong>).&lt;/li>
+&lt;li>
+&lt;p>Loosen the hose clamp for the PCV hose (Item &lt;strong>8&lt;/strong>). If you&amp;rsquo;re replacing the PCV hose, just cut the old one.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Remove the rear coolant line (on turbo models) (item &lt;strong>9&lt;/strong>).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Remove the EGR tube (item &lt;strong>7&lt;/strong>).&lt;/p>
+&lt;/li>
 &lt;/ol>
 &lt;h3 id="rear-side">Rear Side&lt;/h3>
-&lt;p>
-&lt;a href="../wiki/index.php/File:4.jpg">&lt;img src="../wiki/images/thumb/d/d0/4.jpg/300px-4.jpg" alt="4.jpg">&lt;/a>&lt;/p>
+&lt;img src="../docs/articles/technical/intake_manifold_removal/images/engine_rear.jpg#no-margin" alt="*Engine Rear*">
 &lt;ol>
-&lt;li>Remove the hose clamp for the rear driver&amp;rsquo;s side coolant line (Item &lt;strong>10&lt;/strong>).&lt;/li>
-&lt;li>Remove the hose clamp for the rear passenger&amp;rsquo;s side coolant line (item &lt;strong>11&lt;/strong>).&lt;/li>
-&lt;li>Remove these two lines. If you&amp;rsquo;re doing the coolant line bypass, just cut them.&lt;/li>
-&lt;li>Disconnect the EGR vacuum line (item &lt;strong>12&lt;/strong>).&lt;/li>
+&lt;li>
+&lt;p>Remove the hose clamp for the rear driver&amp;rsquo;s side coolant line (Item &lt;strong>10&lt;/strong>).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Remove the hose clamp for the rear passenger&amp;rsquo;s side coolant line (item &lt;strong>11&lt;/strong>).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Remove these two lines. If you&amp;rsquo;re doing the coolant line bypass, just cut them.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Disconnect the EGR vacuum line (item &lt;strong>12&lt;/strong>).&lt;/p>
+&lt;/li>
 &lt;/ol>
 &lt;h3 id="upper-plenum">Upper Plenum&lt;/h3>
 &lt;ol>
-&lt;li>Remove the main upper plenum bolts.&lt;br>
-&lt;a href="../wiki/index.php/File:Injectors0027.jpg">&lt;img src="../wiki/images/6/64/Injectors0027.jpg" alt="injectors0027.jpg">&lt;/a>
-&lt;ul>
-&lt;li>Regular bolts (green dots) are all the same. Red dot is the short one, and orange dot is the hex-head one (which doubles as a mounting point for the throttle cable cover).&lt;/li>
-&lt;/ul>
+&lt;li>
+&lt;p>Remove the main upper plenum bolts.&lt;br>
+&lt;img src="../docs/articles/technical/intake_manifold_removal/images/plenum_upper.jpg#no-margin" alt="*Upper Plenum*">
+&lt;br>
+&lt;em>Regular bolts (green dots) are all the same. Red dot is the short one, and orange dot is the hex-head one (which doubles as a mounting point for the throttle cable cover).&lt;/em>&lt;/p>
 &lt;/li>
-&lt;li>Carefully lift the plenum up directly away from the engine. If you left the PCV hoses connected, allow the rear to tip back towards the engine.&lt;/li>
-&lt;li>Making sure there are no snags, electrical connectors, hoses, etc still hanging on, pull the plenum towards the front of the engine. If you left the PCV hoses connected, pull the plenum away to help pull the PCV hoses off the PCV valves on the plenum. It helps to have a partner with this!
-&lt;ul>
-&lt;li>When handling the intake manifold, be careful not to damage the TPS or IACV.&lt;/li>
-&lt;/ul>
+&lt;li>
+&lt;p>Carefully lift the plenum up directly away from the engine. If you left the PCV hoses connected, allow the rear to tip back towards the engine.&lt;/p>
 &lt;/li>
-&lt;li>Plug the lower intake manifold ports (6).&lt;br>
-&lt;a href="../wiki/index.php/File:Injectors0031.jpg">&lt;img src="../wiki/images/d/da/Injectors0031.jpg" alt="injectors0031.jpg">&lt;/a>&lt;/li>
-&lt;li>Go take a break!&lt;/li>
+&lt;li>
+&lt;p>Making sure there are no snags, electrical connectors, hoses, etc still hanging on, pull the plenum towards the front of the engine. If you left the PCV hoses connected, pull the plenum away to help pull the PCV hoses off the PCV valves on the plenum. It helps to have a partner with this!&lt;br>
+&lt;em>When handling the intake manifold, be careful not to damage the TPS or IACV.&lt;/em>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Plug the lower intake manifold ports (6).&lt;br>
+&lt;img src="../docs/articles/technical/intake_manifold_removal/images/lower_intake_manifold.jpg#no-margin" alt="*Lower Intake Manifold*">
+&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Go take a break!&lt;/p>
+&lt;/li>
 &lt;/ol>
 &lt;h2 id="post-removal-jobs">Post-Removal Jobs&lt;/h2>
 &lt;p>There are a few different jobs that can be completed when the intake manifold has been removed. Now that it&amp;rsquo;s done, check out the guides for some of these jobs:&lt;/p>
@@ -703,7 +786,7 @@ We&amp;rsquo;ll start by concentrating the components on and around the top of t
 &lt;li>
 &lt;a href="../wiki/index.php/Coolant_Line_Bypass" title="Coolant Line Bypass">Coolant Line Bypass&lt;/a>&lt;/li>
 &lt;li>
-&lt;a href="../wiki/index.php/EGR_Removal" title="EGR Removal">EGR Bypass/Removal&lt;/a>&lt;/li>
+&lt;a href="../../deletes/egr_removal" title="EGR Removal">EGR Bypass/Removal&lt;/a>&lt;/li>
 &lt;li>
 &lt;a href="../wiki/index.php/PCV_Reroute" title="PCV Reroute">PCV Reroute&lt;/a> or
 &lt;a href="../wiki/index.php/PCV_Delete" title="PCV Delete">Delete&lt;/a>&lt;/li>
@@ -712,7 +795,8 @@ We&amp;rsquo;ll start by concentrating the components on and around the top of t
 &lt;li>
 &lt;a href="../wiki/index.php/Valve_Cover" title="Valve Cover">Valve Cover Re-seal&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;p>At the very least, it is &lt;strong>highly&lt;/strong> recommended that you complete the &lt;strong>coolant line bypass&lt;/strong>. This makes future plenum pulls &lt;em>much, much&lt;/em> easier, in addition to eliminating multiple points for potential coolant leaks.&lt;/p>
+&lt;p>At the very least, it is &lt;strong>highly&lt;/strong> recommended that you complete the &lt;strong>coolant line bypass&lt;/strong>.&lt;br>
+This makes future plenum pulls &lt;em>much, much&lt;/em> easier, in addition to eliminating multiple points for potential coolant leaks.&lt;/p>
 &lt;h2 id="re-installation">Re-installation&lt;/h2>
 &lt;p>Aside from any deletes/bypasses completed, installation of the plenum is the reverse of the removal. Be careful when installing the new plenum gasket as it&amp;rsquo;s paper and easily damaged, and ensure that the gasket mating surfaces are clean and totally flat.&lt;br>
 The torque specs needed for reinstallation are as follows:&lt;/p>
@@ -721,12 +805,14 @@ The torque specs needed for reinstallation are as follows:&lt;/p>
 &lt;li>Side braces: Approx 6-8 lb-ft.&lt;/li>
 &lt;li>Balance tube nuts and bolts: 12-15 lb-ft.&lt;/li>
 &lt;li>EGR bolts: 6.2-8 lb-ft.&lt;/li>
-&lt;/ul>
-&lt;p>Retrieved from &amp;ldquo;
-&lt;a href="http://conceptzperformance.com/wiki/index.php?title=Intake_Manifold_Removal&amp;amp;oldid=706" target="_blank" rel="noopener">http://conceptzperformance.com/wiki/index.php?title=Intake_Manifold_Removal&amp;amp;oldid=706&lt;/a>&amp;rdquo;&lt;/p>
-&lt;p>
-&lt;a href="../wiki/index.php/Special:Categories" title="Special:Categories">Category&lt;/a>:&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;a href="../wiki/index.php/Category:How-To_Guides" title="Category:How-To Guides">How-To Guides&lt;/a>&lt;/li>
-&lt;/ul></description></item></channel></rss>
+&lt;/ul></description></item><item><title>Vacuum Diagrams</title><link>http://nissan-z32.allcars.wiki/docs/articles/technical/vacuum_diagrams/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://nissan-z32.allcars.wiki/docs/articles/technical/vacuum_diagrams/</guid><description>&lt;small>
+&lt;p>&lt;em>From Z32 Wiki - &lt;a href="https://conceptzperformance.com/wiki/index.php/Vacuum_Diagrams">https://conceptzperformance.com/wiki/index.php/Vacuum_Diagrams&lt;/a>&lt;/em>&lt;/p>
+&lt;/small>
+&lt;p>These diagrams illustrate the vacuum system in the Z32.&lt;/p>
+&lt;h2 id="naturally-aspirated">Naturally Aspirated&lt;/h2>
+&lt;img src="../docs/articles/technical/vacuum_diagrams/images/na-diagram.png#no-margin" alt="*NA diagram*">
+&lt;h2 id="twin-turbo">Twin Turbo&lt;/h2>
+&lt;h3 id="stock">Stock&lt;/h3>
+&lt;img src="../docs/articles/technical/vacuum_diagrams/images/twin-turbo-stock.png#no-margin" alt="*Twin Turbo Stock diagram*">
+&lt;h3 id="modified">Modified&lt;/h3>
+&lt;img src="../docs/articles/technical/vacuum_diagrams/images/twin-turbo-modified.png#no-margin" alt="*Twin Turbo Modified diagram*"></description></item></channel></rss>
